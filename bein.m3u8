@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Bein Sports 1" group-title="Bein Sports",Bein Sports 1
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b1.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 2" group-title="Bein Sports",Bein Sports 2
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b2.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 3" group-title="Bein Sports",Bein Sports 3
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b3.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 4" group-title="Bein Sports",Bein Sports 4
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b4.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 5" group-title="Bein Sports",Bein Sports 5
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b5.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 6" group-title="Bein Sports",Bein Sports 6
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b6.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 7" group-title="Bein Sports",Bein Sports 7
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b7.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 8" group-title="Bein Sports",Bein Sports 8
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b8.m3u8
+
+#EXTINF:-1 tvg-name="Bein Sports 9" group-title="Bein Sports",Bein Sports 9
+https://raw.githubusercontent.com/reeekala/be/refs/heads/main/b9.m3u8
